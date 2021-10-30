@@ -18,3 +18,16 @@ pipenv install
 cd spider-schema-linking-dataset
 pipenv run evaluate --gold data/schema-linking/dev.txt --pred /path/to/your/output
 ```
+
+## Citation
+
+```
+@misc{taniguchi2021investigation,
+      title={An Investigation Between Schema Linking and Text-to-SQL Performance}, 
+      author={Yasufumi Taniguchi and Hiroki Nakayama and Kubo Takahiro and Jun Suzuki},
+      year={2021},
+      eprint={2102.01847},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
