@@ -1,7 +1,7 @@
 # Spider Schema Linking Dataset
 
 This repository provides the schema linking annotation on [Spider](https://github.com/taoyds/spider).  
-It is released along with our paper: An Investigation between Schema Linking and Text-to-SQL Performance.  
+It is released along with our paper: [An Investigation between Schema Linking and Text-to-SQL Performance](https://arxiv.org/abs/2102.01847).  
 By using this dataset,  you can evaluate the performance of schema linking.
 
 ## Installation
